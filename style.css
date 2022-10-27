@@ -1,0 +1,17 @@
+.header-color {
+  background-color: rgb(167, 229, 255);
+}
+
+.bg-image {
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d03cf0e-5fda-4202-aee4-e4620f0bb721/d3frrxn-f750b773-e32c-4283-8341-ac4d089af08e.png/v1/fit/w_414,h_298,strp/angry_birds_out_of_my_iphone_by_midnightmagnificent_d3frrxn-414w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ3IiwicGF0aCI6IlwvZlwvOGQwM2NmMGUtNWZkYS00MjAyLWFlZTQtZTQ2MjBmMGJiNzIxXC9kM2ZycnhuLWY3NTBiNzczLWUzMmMtNDI4My04MzQxLWFjNGQwODlhZjA4ZS5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.1Rh2Rxxvm8_5SZNrBdoufOulm_sGm3_17rivErIma6E);
+  max-width: 414px;
+  max-height: 297px;
+}
+
+.text-size {
+  text-size-adjust: 1em;
+}
+
+.margin-feat {
+  margin-inline: 9em;
+}
